@@ -1,0 +1,9 @@
+## This is an example local.properties file.
+## In your local machine, copy this file to 'local.properties' and fill in your actual values.
+# Location of the SDK. This is only used by Gradle.
+# sdk.dir=/Users/username/Library/Android/sdk
+# Or on Windows:
+# sdk.dir=C\:\\Users\\username\\AppData\\Local\\Android\\Sdk
+
+# Secret API Key for Haumea backend
+HAUMEA_API_KEY=your_secret_api_key_here
